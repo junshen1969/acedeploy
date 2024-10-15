@@ -1,0 +1,8 @@
+apiVersion: appconnect.ibm.com/v1beta1
+kind: Configuration
+metadata:
+    name: sample-serverconf
+    namespace: ace
+spec:
+    data: CkVudmlyb25tZW50VmFyaWFibGVzOgogICAgIyBlbnZpcm9ubWVudCB2YXJpYWJsZSB0byBhZGQgdG8gdGhlIGludGVncmF0aW9uIHNlcnZlciB3aGVuIHJ1bgogICAgIyAgdXNlZCBpbiB0aGUgSmF2YSBjbGFzcyB1ay5jby5kYWxlbGFuZS5hcHBjb25uZWN0LmRlbW8uQmFzZTY0RW5jb2RlVG9kb0Rlc2NyaXB0aW9uCiAgICBUT0RPX1RJVExFX1BSRUZJWDogJ0VOQ09ERUQ6Jwo=
+    type: serverconf
