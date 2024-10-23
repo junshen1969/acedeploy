@@ -3,7 +3,7 @@ kind: IntegrationRuntime
 metadata:
   labels:
     backup.appconnect.ibm.com/component: integrationruntime
-  name: ir-r1-dev
+  name: ir-test
   namespace: cp4i
 spec:
   license:
