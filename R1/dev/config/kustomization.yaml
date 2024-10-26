@@ -3,6 +3,4 @@ kind: Kustomization
 namespace: cp4i
 resources:
 - ir.yaml
-- secret-barauth.yaml
-- config-barauth.yaml
 
