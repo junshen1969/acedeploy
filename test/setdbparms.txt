@@ -1,0 +1,2 @@
+kafka::es ace-app-scram **************
+truststore::es-truststore ignore *********
